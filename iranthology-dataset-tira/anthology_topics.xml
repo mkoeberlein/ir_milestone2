@@ -1,0 +1,32 @@
+<topics>
+ <topic number = "1">
+  <title> exhaustivity of index </title>
+  <description>Documents that include explanations for what exhaustivity means for an index. </description>
+  <narrative>Relevant documents include the words index and/or indexing and exhaustivity in combination. Documents only containing indexing and/or index or only containing exhaustivity are not relevant.</narrative>
+ </topic>
+ <topic number="2">
+  <title>query optimization</title>
+  <description>How can I optimize my queries and what are the main algorithms for them?</description>
+  <narrative>Relevant optimizations for queries and their respective algorithms in the information retrieval field. Documents not concerning the algorithmic approach behind queries are not relevant.</narrative>
+ </topic>
+ <topic number="3">
+  <title> Cosine similarity vector </title>
+  <description> How do I convert documents and queries into vectors for the cosine similarity? </description>
+  <narrative> Relevant documents have the process of building the high-dimensional space out of documents and queries. The calculation of the angles via the cosine are not relevant. </narrative>
+ </topic>
+ <topic number ="4">
+  <title> reverse indexing</title>
+  <description> What sources explain reverse indexing? </description>
+  <narrative> Relevant sources that focus on reverse indexing. Sources that mention reverse indexing but does not explain reverse indexing are not relevant. </narrative> 
+ </topic> 
+ <topic number="5">
+  <title>index compression techniques</title>
+  <description>Which papers (abstracts) have information on techniques for index compression?</description>
+  <narrative>Relevant abstracts discuss index compression techniques. Abstracts that mention indexing but do not provide information about compression methods are not relevant. </narrative>
+ </topic>
+ <topic number="6">
+  <title>search engine optimization with query logs</title>
+  <description>What documents explain the optimization of a search engine that utilize query logs to do so?</description>
+  <narrative>Relevant documents include those referring to optimization and query logs. Those that only center one of these topics are not relevant. Any area of search engine optimization is relevant.</narrative>
+ </topic>
+</topics>
